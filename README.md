@@ -31,6 +31,12 @@ ClubAL is an offline-first institutional signage and agenda display system for W
 - Automation
 - Technical documentation
 
+## Small public project
+
+### Local First Checklist
+
+[`local-first-checklist`](https://github.com/gmdr2022/local-first-checklist) is a compact Python checklist app with local JSON persistence, CLI commands, tests, and GitHub Actions validation. It is a small public example of the same practical direction I am studying: useful software, local-first behavior, and clean documentation.
+
 ## Learning path
 
 - Data structures
@@ -43,6 +49,7 @@ ClubAL is an offline-first institutional signage and agenda display system for W
 ## Public repositories
 
 - [gmdr2022](https://github.com/gmdr2022/gmdr2022): this profile README.
+- [local-first-checklist](https://github.com/gmdr2022/local-first-checklist): small Python local-first checklist app with tests and CI.
 - [GuiPersonalPresentation](https://github.com/gmdr2022/GuiPersonalPresentation): early learning archive kept for transparency, not as the current portfolio centerpiece.
 
 ## Contact and links
