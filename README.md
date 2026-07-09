@@ -14,8 +14,8 @@ I prefer small, working systems over inflated claims: clear documentation, maint
 
 ClubAL is an offline-first institutional signage and agenda display system for Windows-based multi-screen environments. It focuses on agendas, operational context, weather support, and local-first deployment workflows for institutional screens.
 
-- Project site: [clubal.pages.dev](https://clubal.pages.dev/)
-- Repository: [gmdr2022/clubal](https://github.com/gmdr2022/clubal)
+- Public project site: [clubal.pages.dev](https://clubal.pages.dev/)
+- Source repository: private during active development
 - Stack: Python, Tkinter, Windows packaging, static site deployment, GitHub Actions, Cloudflare Pages
 - Focus: offline-first behavior, multi-screen workflows, practical documentation, and robust local operation
 
@@ -39,6 +39,11 @@ ClubAL is an offline-first institutional signage and agenda display system for W
 - Technical documentation
 - Development workflows
 - Testing and basic security practices
+
+## Public repositories
+
+- [gmdr2022](https://github.com/gmdr2022/gmdr2022): this profile README.
+- [GuiPersonalPresentation](https://github.com/gmdr2022/GuiPersonalPresentation): early learning archive kept for transparency, not as the current portfolio centerpiece.
 
 ## Contact and links
 
