@@ -1,58 +1,30 @@
 # Guilherme M. Rocha
 
-Brazilian student building practical software with Python, desktop tooling, offline-first systems, and web deployment workflows.
+I build local-first Windows software and developer tools for environments where reliability matters more than permanent connectivity.
 
-## About me
+Based in Brazil, I work across product delivery, offline-capable desktop systems, and focused engineering tools. I prefer explicit contracts and verifiable behavior over broad claims: what works offline, what fails safely, what automation has proved, and what still needs human validation should all be visible.
 
-I am a Brazilian student focused on learning by building useful software. My current interests are Python, programming logic, automation, desktop applications, offline-first tools, institutional systems, static sites, and practical deployment workflows.
+## Selected work
 
-I prefer small, working systems over inflated claims: clear documentation, maintainable structure, and software that still works when the network or environment is imperfect.
+| Project | Purpose | Public evidence |
+| --- | --- | --- |
+| **ClubAL** | Offline-first Windows software for institutional displays and operational routines. The implementation remains private during active development. | [Product site](https://clubal.pages.dev/) · [Delivery and reliability project](https://github.com/users/gmdr2022/projects/1) |
+| **Release Evidence** | Dependency-free CLI for deterministic SHA-256 release manifests, strict verification, and portable path handling. | [Source](https://github.com/gmdr2022/release-evidence) · [v1.0.0](https://github.com/gmdr2022/release-evidence/releases/tag/v1.0.0) · [Attested release workflow](https://github.com/gmdr2022/release-evidence/actions/workflows/release.yml) |
+| **Local-first Checklist** | Offline checklist CLI with atomic persistence, schema validation, last-known-good backup, and explicit recovery. | [Source](https://github.com/gmdr2022/local-first-checklist) · [v1.0.0](https://github.com/gmdr2022/local-first-checklist/releases/tag/v1.0.0) · [Data contract](https://github.com/gmdr2022/local-first-checklist/blob/main/docs/data-format.md) |
 
-## Currently working on
+## Engineering principles
 
-### ClubAL
+- **Local operation is the baseline.** Network services may extend a workflow, but should not become an accidental startup dependency.
+- **Failure must be legible.** Validation, recovery, and fallback behavior are explicit rather than silently masking damaged state.
+- **Evidence travels with a release.** Tests, cross-platform CI, deterministic manifests, and provenance are connected to the artifact they support.
+- **Public and private boundaries are intentional.** Product outcomes can be explained without publishing source code, operational data, credentials, or undisclosed plans.
+- **Human gates remain human.** Automated checks are reported separately from visual, physical-device, or operational acceptance.
 
-ClubAL is an offline-first institutional signage and agenda display system for Windows-based multi-screen environments. It focuses on agendas, operational context, weather support, and local-first deployment workflows for institutional screens.
+## Current focus and contact
 
-- Public project site: [clubal.pages.dev](https://clubal.pages.dev/)
-- Source repository: private during active development
-- Stack: Python, Tkinter, Windows packaging, static site deployment, GitHub Actions, Cloudflare Pages
-- Focus: offline-first behavior, multi-screen workflows, practical documentation, and robust local operation
+I am refining local-first product delivery on Windows and publishing small tools whose guarantees can be inspected, tested, and reused independently.
 
-## Technical focus
-
-- Python
-- Desktop apps
-- Tkinter
-- Offline-first systems
-- Windows deployment workflows
-- GitHub Pages and Cloudflare Pages
-- Static sites
-- Automation
-- Technical documentation
-
-## Small public project
-
-### Local First Checklist
-
-[`local-first-checklist`](https://github.com/gmdr2022/local-first-checklist) is a compact Python checklist app with local JSON persistence, CLI commands, tests, and GitHub Actions validation. It is a small public example of the same practical direction I am studying: useful software, local-first behavior, and clean documentation.
-
-## Learning path
-
-- Data structures
-- Programming logic
-- Simple application architecture
-- Technical documentation
-- Development workflows
-- Testing and basic security practices
-
-## Public repositories
-
-- [gmdr2022](https://github.com/gmdr2022/gmdr2022): this profile README.
-- [local-first-checklist](https://github.com/gmdr2022/local-first-checklist): small Python local-first checklist app with tests and CI.
-- [GuiPersonalPresentation](https://github.com/gmdr2022/GuiPersonalPresentation): early learning archive kept for transparency, not as the current portfolio centerpiece.
-
-## Contact and links
-
-- Website: [clubal.pages.dev](https://clubal.pages.dev/)
-- GitHub: [github.com/gmdr2022](https://github.com/gmdr2022)
+- Product context: [ClubAL product site](https://clubal.pages.dev/)
+- Delivery evidence: [ClubAL reliability project](https://github.com/users/gmdr2022/projects/1) · [Open engineering project](https://github.com/users/gmdr2022/projects/2)
+- Open-source questions: use the relevant repository's issue tracker.
+- Security reports: follow the private reporting path documented in each repository's `SECURITY.md`.
