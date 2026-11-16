@@ -1,30 +1,20 @@
 # Guilherme M. Rocha
 
-I build local-first Windows software and developer tools for environments where reliability matters more than permanent connectivity.
-
-Based in Brazil, I work across product delivery, offline-capable desktop systems, and focused engineering tools. I prefer explicit contracts and verifiable behavior over broad claims: what works offline, what fails safely, what automation has proved, and what still needs human validation should all be visible.
+I’m a Product Owner based in Brazil. At Fultuma Tech, I work on software and digital products that make everyday operations easier to manage. My main focus is Wissian Prime Global, a modular platform in development for teams that need to manage documents, records, and access across organizations and units.
 
 ## Selected work
 
-| Project | Purpose | Public evidence |
+| Project | What it does | Links |
 | --- | --- | --- |
-| **ClubAL** | Offline-first Windows software for institutional displays and operational routines. The implementation remains private during active development. | [Product site](https://clubal.pages.dev/) · [Delivery and reliability project](https://github.com/users/gmdr2022/projects/1) |
-| **Release Evidence** | Dependency-free CLI for deterministic SHA-256 release manifests, strict verification, and portable path handling. | [Source](https://github.com/gmdr2022/release-evidence) · [v1.0.0](https://github.com/gmdr2022/release-evidence/releases/tag/v1.0.0) · [Attested release workflow](https://github.com/gmdr2022/release-evidence/actions/workflows/release.yml) |
-| **Local-first Checklist** | Offline checklist CLI with atomic persistence, schema validation, last-known-good backup, and explicit recovery. | [Source](https://github.com/gmdr2022/local-first-checklist) · [v1.0.0](https://github.com/gmdr2022/local-first-checklist/releases/tag/v1.0.0) · [Data contract](https://github.com/gmdr2022/local-first-checklist/blob/main/docs/data-format.md) |
+| **Wissian Prime Global** | Modular platform in development for operations, documents, access management, finance, and monthly close. The commercial portal is live. | [Product site](https://wissian.tech/) · [Case study](https://fultuma.pages.dev/en/caso-wissian) |
+| **Fultuma Tech** | The engineering and digital products company behind Wissian. Its multilingual site brings together published work, products in development, and case studies. | [Portfolio](https://fultuma.pages.dev/en/projetos) · [Website source](https://github.com/gmdr2022/fultuma-tech) |
+| **Rodolfo Inácio portal** | Published institutional website with news, public service information, accessibility controls, and three language editions. | [Live site](https://rodolfoinacio.com.br/) · [Case study](https://fultuma.pages.dev/en/caso-rodolfo) |
+| **ClubAL** | Earlier work on schedules, operational routines, and weather displays. The technical archive informs related work in Wissian. | [Project history](https://fultuma.pages.dev/en/caso-clubal) |
 
-## Engineering principles
+## How I work
 
-- **Local operation is the baseline.** Network services may extend a workflow, but should not become an accidental startup dependency.
-- **Failure must be legible.** Validation, recovery, and fallback behavior are explicit rather than silently masking damaged state.
-- **Evidence travels with a release.** Tests, cross-platform CI, deterministic manifests, and provenance are connected to the artifact they support.
-- **Public and private boundaries are intentional.** Product outcomes can be explained without publishing source code, operational data, credentials, or undisclosed plans.
-- **Human gates remain human.** Automated checks are reported separately from visual, physical-device, or operational acceptance.
+I define what a product needs to do, how it should behave when something fails, and what evidence supports each release. My work on **Release Evidence** and **Local-first Checklist** explored those ideas through deterministic release manifests, atomic local writes, and explicit recovery.
 
-## Current focus and contact
+In Wissian, I focus on clear access boundaries, auditable operations, and keeping the code, deployment, and recovery under the product owner’s control.
 
-I am refining local-first product delivery on Windows and publishing small tools whose guarantees can be inspected, tested, and reused independently.
-
-- Product context: [ClubAL product site](https://clubal.pages.dev/)
-- Delivery evidence: [ClubAL reliability project](https://github.com/users/gmdr2022/projects/1) · [Open engineering project](https://github.com/users/gmdr2022/projects/2)
-- Open-source questions: use the relevant repository's issue tracker.
-- Security reports: follow the private reporting path documented in each repository's `SECURITY.md`.
+For project or product inquiries, [contact Fultuma Tech](https://fultuma.pages.dev/en/contato).
