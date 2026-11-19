@@ -4,12 +4,12 @@ I’m a Product Owner based in Brazil. At Fultuma Tech, I work on software and d
 
 ## Selected work
 
-| Project | What it does | Links |
+| Project | What it does | Website |
 | --- | --- | --- |
-| **Wissian Prime Global** | Modular platform in development for operations, documents, access management, finance, and monthly close. The commercial portal is live. | [Product site](https://wissian.tech/) · [Case study](https://fultuma.pages.dev/en/caso-wissian) |
-| **Fultuma Tech** | The engineering and digital products company behind Wissian. Its multilingual site brings together published work, products in development, and case studies. | [Portfolio](https://fultuma.pages.dev/en/projetos) · [Website source](https://github.com/gmdr2022/fultuma-tech) |
-| **Rodolfo Inácio portal** | Published institutional website with news, public service information, accessibility controls, and three language editions. | [Live site](https://rodolfoinacio.com.br/) · [Case study](https://fultuma.pages.dev/en/caso-rodolfo) |
-| **ClubAL** | Earlier work on schedules, operational routines, and weather displays. The technical archive informs related work in Wissian. | [Project history](https://fultuma.pages.dev/en/caso-clubal) |
+| **Wissian Prime Global** | Modular platform in development for operations, documents, access management, finance, and monthly close. The commercial portal is live. | [wissian.tech](https://wissian.tech/) |
+| **Fultuma Tech** | The engineering and digital products company behind Wissian. Its multilingual site brings together published work, products in development, and case studies. | [fultuma.pages.dev](https://fultuma.pages.dev/) |
+| **Rodolfo Inácio portal** | Published institutional website with news, public service information, accessibility controls, and three language editions. | [rodolfoinacio.com.br](https://rodolfoinacio.com.br/) |
+| **ClubAL** | Earlier work on schedules, operational routines, and weather displays. The technical archive informs related work in Wissian. | — |
 
 ## How I work
 
@@ -17,4 +17,4 @@ I define what a product needs to do, how it should behave when something fails, 
 
 In Wissian, I focus on clear access boundaries, auditable operations, and keeping the code, deployment, and recovery under the product owner’s control.
 
-For project or product inquiries, [contact Fultuma Tech](https://fultuma.pages.dev/en/contato).
+For project or product inquiries, visit [Fultuma Tech](https://fultuma.pages.dev/).
