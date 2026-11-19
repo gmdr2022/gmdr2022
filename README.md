@@ -1,17 +1,10 @@
-# Guilherme M. Rocha
+## Selected work
 
-**Product Owner & Founder at Fultuma Tech**  
-Software products · SaaS · Web development
-
-I'm based in Brazil and work at the intersection of product strategy and software delivery. I focus on turning real operational needs into clear, reliable digital products, from product definition and user experience to implementation, testing, and release quality.
-
-## What I'm building
-
-- **[Wissian Prime Global](https://wissian.tech/)** — a modular B2B SaaS platform in development for business operations, documents, access control, and financial workflows across organizations and units.
-- **[Fultuma Tech](https://fultuma.pages.dev/)** — the technology company behind Wissian, bringing together our software products and published web projects.
+- **[Wissian Prime Global](https://wissian.tech/)** — Modular B2B SaaS in development for operations across organizations and units, including access control and financial workflows.
+- **[Fultuma Tech](https://fultuma.pages.dev/)** — Software products and published web projects.
 
 ## Technical focus
 
-**Working with:** TypeScript, React, Supabase/PostgreSQL, GitHub Actions, and Cloudflare.
+**Tools:** TypeScript · React · Supabase / PostgreSQL · GitHub Actions · Cloudflare
 
-**Interested in:** SaaS architecture, multi-tenant security, responsive UX, maintainable code, and dependable software releases.
+**Priorities:** Clear UX · access boundaries · maintainable code · reliable releases
