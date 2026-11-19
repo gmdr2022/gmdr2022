@@ -1,10 +1,10 @@
 ## Selected work
 
-- **[Wissian Prime Global](https://wissian.tech/)** — Modular B2B SaaS in development for operations across organizations and units, including access control and financial workflows.
-- **[Fultuma Tech](https://fultuma.pages.dev/)** — Software products and published web projects.
+- **[Wissian Prime Global](https://wissian.tech/)** — Modular B2B SaaS in development for organizations with multiple units, covering access control, documents, and financial workflows.
+- **[Fultuma Tech](https://fultuma.pages.dev/)** — Home of our software products and published web projects.
 
-## Technical focus
+## Technical work
 
-**Tools:** TypeScript · React · Supabase / PostgreSQL · GitHub Actions · Cloudflare
+**Stack used in my projects:** TypeScript · React · Supabase / PostgreSQL · GitHub Actions · Cloudflare
 
-**Priorities:** Clear UX · access boundaries · maintainable code · reliable releases
+**Current focus:** Multi-tenant access boundaries, authentication and session reliability, automated verification, and responsive UX.
